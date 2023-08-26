@@ -12,16 +12,16 @@ crie uma função que encontre e retorne o segundo menor valor presente nos nodo
 Obs: todas as entradas testadas pelo algoritmo do LeetCode tiveram o retorno esperado.
 
 ### Entrada 1 :
-int root[] = { 2, 2, 5, null, null, 5, 7 };<br/>
+tree[] = { 2, 2, 5, null, null, 5, 7 };<br/>
 
 <b>Resultado</b> : 5
 
 ### Entrada 2 :
-int amount[] = { 2, 2, 2 };<br/>
+tree[] = { 2, 2, 2 };<br/>
 
 <b>Resultado</b> : -1
 
 ### Entrada 3 :
-int amount[] = { 1, 1, 3, 1, 1, 3, 4, 3, 1, 1, 1, 3, 8, 4, 8, 3, 3, 1, 6, 2, 1 };<br/>
+tree[] = { 1, 1, 3, 1, 1, 3, 4, 3, 1, 1, 1, 3, 8, 4, 8, 3, 3, 1, 6, 2, 1 };<br/>
 
 <b>Resultado</b> : 2
